@@ -1,0 +1,3 @@
+jupyter
+datasets
+-e git+https://github.com/tsachiblau/peft_CPT.git
