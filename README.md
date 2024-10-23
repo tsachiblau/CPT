@@ -124,7 +124,7 @@ GT: positive
 If you use this code or method in your research, please cite the original paper:
 
 ```
-@inproceedings{blau2025cpt, title={Context-Aware Prompt Tuning: Advancing In-Context Learning with Adversarial Methods}, author={Tsachi Blau, Moshe Kimhi, Yonatan Belinkov, Alexander Bronstein, Chaim Baskin}, journal={arXiv preprint arXiv:2410.17222}}, year={2025} }
+@article{blau2025cpt, title={Context-Aware Prompt Tuning: Advancing In-Context Learning with Adversarial Methods}, author={Tsachi Blau, Moshe Kimhi, Yonatan Belinkov, Alexander Bronstein, Chaim Baskin}, journal={arXiv preprint arXiv:2410.17222}}, year={2025} }
 ```
 
 ---
