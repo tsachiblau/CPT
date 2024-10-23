@@ -1,7 +1,7 @@
 
 # **Context-Aware Prompt Tuning (CPT) - Demonstration Repo**
 
-This repository demonstrates **Context-Aware Prompt Tuning (CPT)**, a method described in the paper [*Context-aware Prompt Tuning: Advancing In-Context Learning with Adversarial Methods*](https://arxiv.org/abs/...). CPT combines the benefits of In-Context Learning (ICL), Prompt Tuning (PT), and adversarial techniques to achieve superior performance in few-shot learning scenarios.
+This repository demonstrates **Context-Aware Prompt Tuning (CPT)**, a method described in the paper [*Context-aware Prompt Tuning: Advancing In-Context Learning with Adversarial Methods*](https://arxiv.org/abs/2410.17222). CPT combines the benefits of In-Context Learning (ICL), Prompt Tuning (PT), and adversarial techniques to achieve superior performance in few-shot learning scenarios.
 
 The repo includes:
 - An interactive **Jupyter notebook** (`demo.ipynb`) demonstrating how to use CPT with the **SST-2 dataset**.
@@ -124,7 +124,7 @@ GT: positive
 If you use this code or method in your research, please cite the original paper:
 
 ```
-@inproceedings{blau2025cpt, title={Context-Aware Prompt Tuning: Advancing In-Context Learning with Adversarial Methods}, author={Tsachi Blau, Moshe Kimhi, Yonatan Belinkov, Alexander Bronstein, Chaim Baskin}, booktitle={International Conference on Learning Representations (ICLR)}, year={2025} }
+@inproceedings{blau2025cpt, title={Context-Aware Prompt Tuning: Advancing In-Context Learning with Adversarial Methods}, author={Tsachi Blau, Moshe Kimhi, Yonatan Belinkov, Alexander Bronstein, Chaim Baskin}, journal={arXiv preprint arXiv:2410.17222}}, year={2025} }
 ```
 
 ---
