@@ -36,15 +36,12 @@ Our method has demonstrated superior accuracy across multiple classification tas
 ---
 
 ## Motivation
-
-In few-shot learning, optimization-based methods like fine-tuning and prompt tuning often overfit due to the limited training examples, resulting in poor generalization. Context-Aware Prompt Tuning (CPT) addresses this challenge by reducing overfitting while boosting performance.
-
 <p align="center">
   <img src="./images/Figure1.png" width="100%" alt="Overfitting Comparison of CPT with Baselines">
 </p>
-<p align="center">
-  <em>Figure 1: Overfitting Comparison - CPT vs. Baselines</em>
-</p>
+
+
+In few-shot learning, optimization-based methods like fine-tuning and prompt tuning often overfit due to the limited training examples, resulting in poor generalization. Context-Aware Prompt Tuning (CPT) addresses this challenge by reducing overfitting while boosting performance.
 
 ---
 
