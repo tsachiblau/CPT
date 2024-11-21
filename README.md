@@ -78,11 +78,14 @@ This figure provides an overview of the training process for **Context-Aware Pro
    - **Backward Pass**: Red arrows represent gradient updates applied only to the trainable tokens during optimization.
 
 3. **Token Embeddings**:
-   - Embeddings are split into trainable embeddings ![Math](https://latex.codecogs.com/svg.latex?x_{Emb}), context embeddings ![Math](https://latex.codecogs.com/svg.latex?x_{Context}), and labeled training examples ![Math](https://latex.codecogs.com/svg.latex?x_{Train}).
+   - Embeddings are split into trainable embeddings x_{Emb}, context embeddings x_{Context}, and labeled training examples x_{Train}.
    - Trainable embeddings are optimized iteratively during training.
 
 4. **Loss Calculation**:
-   - The final loss is computed using **cross-entropy loss** on the labeled training examples (\(x_{Train}\)).
+   - The final loss is computed using **cross-entropy loss** on the labeled training examples x_{Train}.
+
+
+
 
 This process ensures efficient fine-tuning by optimizing specific tokens while keeping the majority of the pre-trained model frozen. This design balances adaptability and robustness, achieving strong performance in few-shot learning tasks.
 
