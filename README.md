@@ -6,8 +6,9 @@
   <a href="https://tsachiblau.github.io/" target="_blank" class="link-no-underline">Tsachi Blau</a> | <a href="https://mkimhi.github.io/" target="_blank" class="link-no-underline">Moshe Kimhi</a> | <a href="https://belinkov.com/" target="_blank" class="link-no-underline">Yonatan Belinkov</a> | <a href="https://bron.cs.technion.ac.il/" target="_blank" class="link-no-underline">Alex M. Bronstein</a> | <a href="https://cris.bgu.ac.il/en/persons/chaim-baskin" target="_blank" class="link-no-underline">Chaim Baskin</a>
 </div>
 
-
+<div align="center">
 Welcome to the official GitHub page for **Context-Aware Prompt Tuning (CPT)**. This repository provides an overview of CPT, our novel approach to advancing few-shot learning by combining In-Context Learning (ICL), Prompt Tuning (PT), and adversarial methods. Our technique optimizes context embeddings to improve accuracy and reduce overfitting in language models, particularly in challenging few-shot scenarios.
+</div>
 
 <div align="center", style="text-align: center;">
 
