@@ -9,7 +9,7 @@
 
 Welcome to the official GitHub page for **Context-Aware Prompt Tuning (CPT)**. This repository provides an overview of CPT, our novel approach to advancing few-shot learning by combining In-Context Learning (ICL), Prompt Tuning (PT), and adversarial methods. Our technique optimizes context embeddings to improve accuracy and reduce overfitting in language models, particularly in challenging few-shot scenarios.
 
-<div style="text-align: center;">
+<div align="center", style="text-align: center;">
 
 [![arXiv](https://img.shields.io/badge/arXiv-View_Paper-red)](https://arxiv.org/abs/2410.17222)
 [![Run in Colab](https://img.shields.io/badge/Run_in-Colab-blue)](https://colab.research.google.com/drive/1UhQDVhZ9bDlSk1551SuJV8tIUmlIayta?usp=sharing)
